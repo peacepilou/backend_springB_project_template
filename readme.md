@@ -22,6 +22,7 @@ This project has been initialized from SpringBoot version 3.4
 
 ## Same code format : Prettier
 - This project uses Prettier.
+- Make sure to install it by running `npm install` after cloning this repository. 
 - Prettier makes sure that everyone has the same code format and standardize it. It helps developers to be focused on creating feature, not formatting. The same format for everyone also means easier code reviews.
 - The configuration file is in the `source directory` > `.prettierrc.json`.
 - You can install Prettier plugin on your IDE if you want, it would help you to configure when prettier should run. For instance, you can choose to let it run after every file save. But you are not forced to install the plugin because **Prettier will run every time after you are trying to commit**.
